@@ -1,4 +1,4 @@
 # demo
 This is my first repository
 <br>
-Author : Shruti Pragyan Dash
+Author : Shruti Pragyan Dash(LIT)
